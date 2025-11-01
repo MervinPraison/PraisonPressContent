@@ -15,6 +15,8 @@ tags:
   - "classic"
 ---
 
+# Amazing Grace
+
 Amazing grace, how sweet the sound
 That saved a wretch like me!
 I once was lost, but now am found;
@@ -28,4 +30,4 @@ The hour I first believed.
 Through many dangers, toils and snares,
 I have already come;
 'Tis grace hath brought me safe thus far,
-And grace will lead me home.
+And grace will lead me home. Test
